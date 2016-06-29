@@ -1,0 +1,49 @@
+#dashboard{
+margin-top: 30%;
+}
+
+
+#supplier_uploads{
+
+    margin-left: 30%;
+    margin-top: -20%;
+    width: 100% auto;
+}
+#records{
+  float: right;
+  margin-right: 30%;
+  margin-top: -16%;
+  table-layout: fixed;
+
+   
+}
+.thumb:hover{
+	text-decoration: none;
+}
+.thumb a{
+
+
+}
+.images{
+
+	font-family: "Times New Roman", Times, serif;
+	
+   font-weight: bold;
+}
+p{
+ color: #FF9800;	
+}
+.Welcome-message{
+	margin-top: -60%;
+    font-size: 25px;
+    margin-left: 22%;
+    font-weight: bold;
+    border: 5px solid #CFD8DC;
+    background-color: #ECEFF1;
+
+}
+.background{
+	width: 100%;
+  z-index: 0;
+
+}
