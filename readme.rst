@@ -11,8 +11,6 @@ Release Information
 
 This is the Beta Version of the website
 
-ion <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
 
 *******
 License
